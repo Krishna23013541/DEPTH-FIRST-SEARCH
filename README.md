@@ -67,7 +67,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 </ol>
-<h3>PROGRAM<\h3>
+<h3>PROGRAM</h3>
 ```
 from collections import deque
 from collections import defaultdict
@@ -117,7 +117,7 @@ G F <BR>
 ['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
 <hr>
-<h3>OUTPUT<\h3>
+<h3>OUTPUT</h3>
 <img width="439" height="213" alt="image" src="https://github.com/user-attachments/assets/9ff7db4e-30d1-4f18-881a-7eae0ef97a46" />
 
 <hr>
@@ -135,7 +135,7 @@ G F <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
-<h3>OUTPUT<\h3>
+<h3>OUTPUT</h3>
 <img width="250" height="164" alt="image" src="https://github.com/user-attachments/assets/ab07cd72-c911-4257-be5f-d8c703f6902f" />
 
 <h3>Result:</h3>
